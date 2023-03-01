@@ -1,0 +1,91 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch ejercicio1",
+            "request": "launch",
+            "mainClass": "condicionales.ejercicio1",
+            "projectName": "ejercicios_12a3e8fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Hola",
+            "request": "launch",
+            "mainClass": "Hola",
+            "projectName": "ejercicios_12a3e8fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejemplo",
+            "request": "launch",
+            "mainClass": "cadenas.Ejemplo",
+            "projectName": "ejercicios_12a3e8fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejemplo2",
+            "request": "launch",
+            "mainClass": "cadenas.Ejemplo2",
+            "projectName": "ejercicios_12a3e8fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch metodos_cadena",
+            "request": "launch",
+            "mainClass": "cadenas.metodos_cadena",
+            "projectName": "ejercicios_12a3e8fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch metodos_cadena1",
+            "request": "launch",
+            "mainClass": "cadenas.metodos_cadena1",
+            "projectName": "ejercicios_12a3e8fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch if_condicional",
+            "request": "launch",
+            "mainClass": "condicionales.if_condicional",
+            "projectName": "ejercicios_12a3e8fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch switch_condicional",
+            "request": "launch",
+            "mainClass": "condicionales.switch_condicional",
+            "projectName": "ejercicios_12a3e8fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch switch_condicional1",
+            "request": "launch",
+            "mainClass": "condicionales.switch_condicional1",
+            "projectName": "ejercicios_12a3e8fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Operadores1",
+            "request": "launch",
+            "mainClass": "operadores.Operadores1",
+            "projectName": "ejercicios_12a3e8fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Operadores2",
+            "request": "launch",
+            "mainClass": "operadores.Operadores2",
+            "projectName": "ejercicios_12a3e8fd"
+        }
+    ]
+}
