@@ -4,7 +4,7 @@
  * anteriores entran a la calificacion final con porcentajes de 10%,25% y 40%. Hacer un programa
  * que calcule e imprima la nota final de un estudiante.
  */
- package operadores;
+package operadores;
 
 import java.util.Scanner;
 
